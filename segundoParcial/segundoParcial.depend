@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1530730798 source:d:\segundoparcial\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530730798 d:\segundoparcial\arraylist.h
+
+1531317292 source:d:\segundoparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"Numeros.h"
+
+1531317183 d:\segundoparcial\parser.h
+	"ArrayList.h"
+
+1531317087 d:\segundoparcial\numeros.h
+
+1531316905 source:d:\segundoparcial\numeros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Numeros.h"
+
+1531317229 source:d:\segundoparcial\parser.c
+	<string.h>
+	<stdio.h>
+	"parser.h"
+	"Numeros.h"
+
